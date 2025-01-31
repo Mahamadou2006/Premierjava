@@ -1,0 +1,14 @@
+package premierprojet;
+
+public class Variables {
+
+	public static void main(String[] args) {
+		String name= "Mahamadou";
+		System.out.println(name);
+        
+		int Mynumber= 152;
+		int Mynumbers= 24;
+		System.out.println(Mynumber);
+	}
+
+}

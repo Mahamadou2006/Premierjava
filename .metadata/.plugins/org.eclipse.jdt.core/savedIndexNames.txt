@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\diallo\Desktop\deve\eclipse-jee-2024-09-R-win32-x86_64\eclipse\workspace\.metadata\.plugins\org.eclipse.jdt.core
+1504808970.index
+1865797976.index
+1198310521.index

@@ -1,0 +1,17 @@
+package premierprojet;
+
+public class Variables {
+
+	public static void main(String[] args) {
+		String name= "Mahamadou";
+		System.out.println(name);
+        
+		int x= 152;
+		int y= 24;
+		System.out.println(x + y);
+		
+		float z= 0.1f;
+		System.out.println(x * z);
+	}
+
+}

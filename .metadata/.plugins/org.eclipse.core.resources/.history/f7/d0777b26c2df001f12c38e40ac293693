@@ -1,0 +1,11 @@
+package premierprojet;
+
+public class Variables {
+
+	public static void main(String[] args) {
+		String name= "Mahamadou";
+		System.out.println(name);
+
+	}
+
+}
