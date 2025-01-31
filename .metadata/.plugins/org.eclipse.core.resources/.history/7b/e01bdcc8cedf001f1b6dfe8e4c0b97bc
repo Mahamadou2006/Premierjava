@@ -1,0 +1,30 @@
+package premierprojet;
+
+public class Variables {
+
+	public static void main(String[] args) {
+		String name= "Mahamadou";
+		System.out.println(name);
+        
+		int x= 152;
+		int y= 24;
+		System.out.println(x + y);
+		
+		float z= 0.1f;
+		System.out.println(x * z);
+		
+		String studentName = "John Doe";
+		int studentID = 15;
+		int studentAge = 23;
+		float studentFee = 75.25f;
+		char studentGrade = 'B';
+
+		
+		System.out.println("Student name: " + studentName);
+		System.out.println("Student id: " + studentID);
+		System.out.println("Student age: " + studentAge);
+		System.out.println("Student fee: " + studentFee);
+		System.out.println("Student grade: " + studentGrade);
+	}
+
+}

@@ -1,0 +1,10 @@
+package premierprojet;
+
+public class Premier {
+
+	public static void main(String[] args) {
+		Math.max(5, 10);
+
+	}
+
+}
